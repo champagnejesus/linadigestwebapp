@@ -1,0 +1,7 @@
+# Copia este archivo como .dev.vars y reemplaza cada valor.
+# No publiques .dev.vars ni uses las claves de ejemplo en producción.
+
+LINADIGEST_PASSWORD_BODEGA=CAMBIAR-clave-bodega-2026
+LINADIGEST_PASSWORD_DESPACHO=CAMBIAR-clave-despacho-2026
+LINADIGEST_PASSWORD_MIGUEL=CAMBIAR-clave-miguel-2026
+LINADIGEST_PASSWORD_DANIELA=CAMBIAR-clave-daniela-2026
